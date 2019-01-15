@@ -1,12 +1,20 @@
 # Majhong-Mentor
-•	Develop app for Epson smart glasses to help Mahjong players identify cards and make strategic decisions
+*	Develop app for Epson smart glasses to help Mahjong players identify cards and make strategic decisions.
+"Documentation":</br>
+* Overall description of this project and results.
 
-In file "Preprocessing":</br>
-•	Implement image processing methods in C++ to crop pictures into individual images for card predictions
+"Preprocessing":</br>
+*	Implement image processing methods in C++ to crop pictures into individual images for card predictions.
 
-In file "Prediction":</br>
-•	Use Python and Azure Custom Vision service to apply machine learning multiclass classification models, i.e. for training images and making predictions
+"classification_by_tensorflow":</br>
+* Preclassify training sample to accelerate training efficiency.
 
-In file "Ting_hu":</br>
-•	Write winning algorithms for Mahjong game in C++, and display calculation results on smart glasses
+"Increase_Learn":</br>
+* Training model in a increament method.
+
+"Prediction":</br>
+*	Use Python and Azure Custom Vision service to apply machine learning multiclass classification models, i.e. for training images and making predictions.
+
+"Ting_hu":</br>
+*	Write winning algorithms for Mahjong game in C++.
 
