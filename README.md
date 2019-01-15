@@ -1,5 +1,6 @@
 # Majhong-Mentor
 *	Develop app for Epson smart glasses to help Mahjong players identify cards and make strategic decisions.
+
 "Documentation":</br>
 * Overall description of this project and results.
 
