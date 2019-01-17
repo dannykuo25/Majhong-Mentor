@@ -19,3 +19,5 @@
 "Ting_hu":</br>
 *	Write winning algorithms for Mahjong game in C++.
 
+Video Introduction:</br>
+https://drive.google.com/open?id=1ZyUX3ctIQzehNR-G2YGAU20plHcuTPE-
