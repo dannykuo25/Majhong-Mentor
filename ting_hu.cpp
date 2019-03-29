@@ -151,13 +151,4 @@ bool canhu ( vector<int>& ptr, vector<int>& cnt_ptr ){
 	if ( win == 1 )	return 1;
 	else return 0;
 
-    /*
-    �w�z1�G�@�ƵP P�A�Y��@�ӹ�l (�U�ٲ���) ������A���]���ɼƦr�̤p���P�O x�A
-
-�P     �Y x ���i�ƬO 3 �i�H�W�A�h���� 3 �i x (�@��)��A�ѤU�P�� Q�C
-
-�P     �_�h���� x, x+1, x+2 (�@��)����A�ѤU���P��Q�C(�Y�L�k���A�h P �S�J)
-
-  �h�uP �J�v�Y�B�߭Y�u Q �J�v�C
-    */
 }
